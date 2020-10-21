@@ -1,7 +1,7 @@
 # My way in AI
 
 ### Repository structure
-- math -- math disciplines for data science
+- math -- mathematical disciplines for data science
 - techniques -- machine learning libraries and tools
 - practices -- skills in artificial intelligence
 
@@ -17,8 +17,8 @@
 - [x] Kaggle
 - [x] Scikit-learn
 - [x] Boosting libs
-- [x] Visualisation
-- [x] TSA (time series analyses)
+- [x] Visualization
+- [x] TSA (time series analysis)
 - [ ] DL
 - [ ] Pytorch
 - [ ] Docker
@@ -28,7 +28,7 @@
 - [ ] A/B testing
 
 ##### Advanced to
-- [x] TSA (time series analyses) - more algorithms
+- [x] TSA (time series analysis) - more algorithms
 - [x] Math - more disciplines
 - [x] NumPy, Pandas
 - [x] SQL
@@ -37,5 +37,5 @@
 - [ ] Scikit-learn
 - [ ] Statistics and theory of probability
 - [ ] Boosting libs
-- [ ] Visualisation - more libs
+- [ ] Visualization - more libs
 - [ ] Pytorch
