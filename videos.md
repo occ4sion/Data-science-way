@@ -1,0 +1,17 @@
+* Youtube
+  * playlist?list=
+    * PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK
+    * PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+    * PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2
+    * PLJOzdkh8T5ko3zzRRwhowooIqnp58jq1b
+  * channel/
+    * UCeq6ZIlvC9SVsfhfKnSvM9w
+    * UCFTNoZYjkg-3LZTHrHfV1nQ
+  * watch?v=
+    * w-0NdY8y-4Y
+* Coursera
+  * lecture/
+    * data-analysis-applications/vriemiennyie-riady-EjNEV
+    * trendy-klassifikatsii/1-3-siezonnost-NOjsJ
+  * learn
+    * machinnoe-obuchenie-v-finansah/lecture/LX7Jh/urok-3-1
