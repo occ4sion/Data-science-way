@@ -1,0 +1,26 @@
+* towardsdatascience.com
+  * how-to-handle-missing-data-8646b18db0d4
+* machinelearningmastery.ru
+  * all-about-categorical-variable-encoding-305f3361fd02/
+* habr.com/ru
+  * company
+    * ods
+    * ruvds/blog/524084/
+  * post
+    * 207160/
+* machinelearningplus.com
+  * time-series/time-series-analysis-python/
+* tproger.ru
+  * translations
+    * top-machine-learning-algorithms/
+    * preparing-for-data-science-interview/
+  * experts
+    * required-ml-skills/
+    * data-science-practice/
+* nagornyy.me
+  * courses/data-science/feature_engineering/
+* kaggle.com/learn/overview
+* kaggle.com
+* machinelearning.ru
+* ml4trading.io
+* ods.ai
