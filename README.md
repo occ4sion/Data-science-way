@@ -1,5 +1,11 @@
 # My way in AI
 
+> As a general rule in ML, if the cross-validated accuracy is higher than you’d have
+expected, chances are your model is cheating somewhere.
+>
+> © Real-world machine learning (Henrik Brink, Joseph Richards, and Mark Fetherolf)
+
+
 ### Repository structure
 - math -- mathematical disciplines for data science
 - techniques -- machine learning libraries and tools
