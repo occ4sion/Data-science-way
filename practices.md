@@ -17,3 +17,4 @@
 * Model validation
 * Model estimation
 * Building piplines
+* Pattern recognition
