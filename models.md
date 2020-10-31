@@ -21,3 +21,4 @@
   * WMA
   * Holt-Winters
 * ARIMA
+  * EMMSP
