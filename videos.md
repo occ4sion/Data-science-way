@@ -9,6 +9,8 @@
     * UCFTNoZYjkg-3LZTHrHfV1nQ
   * watch?v=
     * w-0NdY8y-4Y
+    * u3lhVV3wAKk
+    * QPYe4ouzG2s
 * Coursera
   * lecture/
     * data-analysis-applications/vriemiennyie-riady-EjNEV
