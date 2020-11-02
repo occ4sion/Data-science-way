@@ -8,6 +8,7 @@
     * ruvds/blog/524084/
     * otus/blog/515514/
     * otus/blog/513672/
+    * skillfactory/blog/525514/
   * post
     * 207160/
 * machinelearningplus.com
