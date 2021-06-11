@@ -31,7 +31,7 @@ expected, chances are your model is cheating somewhere.
 - [ ] NLP (natural language processing)
 - [ ] CV (computer vision)
 - [ ] RL (reinforcement learning)
-- [ ] A/B testing
+- [x] A/B testing
 
 ##### Advanced to
 - [x] TSA (time series analysis) - more algorithms
