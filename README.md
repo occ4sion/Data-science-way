@@ -11,6 +11,34 @@ expected, chances are your model is cheating somewhere.
 - techniques -- machine learning libraries and tools
 - practices -- skills in artificial intelligence
 
+### Summer 2021
+
+##### To examine
+- [ ] Numerical analysis
+- [ ] DL algorithms
+- [ ] Data structures & algorithms
+- [ ] CatBoost
+- [ ] Statsmodels
+- [ ] Pytorch
+- [ ] Plotly
+
+##### To repeat
+- [ ] Statistics
+- [ ] Calculus
+- [ ] Differential equation
+- [ ] Algebra
+- [ ] Probability
+- [ ] Discrete mathematics
+- [ ] ML algorithms
+- [ ] Python
+- [ ] C++
+- [ ] SQL
+- [ ] Pandas
+- [ ] Numpy
+- [ ] Scikit-Learn
+- [ ] SciPy
+- [ ] BI
+
 ### Tasks
 ##### Introduce to
 - [x] ML
@@ -25,7 +53,7 @@ expected, chances are your model is cheating somewhere.
 - [x] Boosting libs
 - [x] Visualization
 - [x] TSA (time series analysis)
-- [ ] DL
+- [x] DL
 - [ ] Pytorch
 - [ ] Docker
 - [ ] NLP (natural language processing)
